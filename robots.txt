@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techtonelabs254.github.io/Metrine-CabinCrew/sitemap.xml

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://techtonelabs254.github.io/Metrine-CabinCrew/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://techtonelabs254.github.io/Metrine-CabinCrew/images/metrine-cabin-crew-uniform-nairobi.jpg</image:loc>
+      <image:caption>Metrine in her cabin crew uniform</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://techtonelabs254.github.io/Metrine-CabinCrew/images/metrine-student-black-suit-nairobi.jpg</image:loc>
+      <image:caption>Metrine as a cabin crew student in a black suit</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://techtonelabs254.github.io/Metrine-CabinCrew/images/metrine-smiling-cabin-crew-student.jpg</image:loc>
+      <image:caption>Metrine smiling in a black blazer and white shirt</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://techtonelabs254.github.io/Metrine-CabinCrew/images/metrine-black-suit-portrait.jpg</image:loc>
+      <image:caption>Metrine in a black suit and white shirt</image:caption>
+    </image:image>
+  </url>
+</urlset>
